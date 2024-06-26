@@ -2,10 +2,11 @@
 This project demonstrates the usage of the try-catch block in Java, which is a powerful mechanism for handling exceptions and ensuring the stability and robustness of your application.
 # Try-Catch Block in Java
 ![How it works (7)](https://github.com/ARIBFIB/Try-Catch-Block-in-Java-Example/assets/125716994/9e8cc351-a5fd-4cf3-8e2c-81d6417c9442)
+## Demonstration
 
-<p align="center">
-  <img src="https://github.com/your-username/try-catch-block/blob/main/logo.png" alt="Project Logo" width="200" height="200">
-</p>
+Check out the following YouTube video for a detailed walkthrough of the project:[YOUTUBE](https://youtu.be/n6CT0JNlgsA)
+
+
 # Code
 
 ```
@@ -73,9 +74,6 @@ java tryCatchBlock```
 
 This will execute the code and demonstrate the usage of the try-catch block.
 
-## Demonstration
-
-Check out the following YouTube video for a detailed walkthrough of the project:[![Try-Catch Block in Java Demo][]][https://www.youtube.com/watch?v=XXXXXXXXXX](https://youtu.be/n6CT0JNlgsA)
 
 ## License
 
